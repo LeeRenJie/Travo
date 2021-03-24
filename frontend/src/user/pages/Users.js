@@ -13,7 +13,7 @@ const Users = () => {
         {id: 'u2',
         name: "Tom Holland", 
         image: 'https://i.insider.com/600853e6e3d62500185fd576',
-        places: 4
+        places: 1
         }
     ];
 
